@@ -8,4 +8,4 @@ techstack:
     - sassyen:1.55.0
     - redisyen:7.0.4
     - beanstalkdyen
-    - npmyen
+    - npmyen2
