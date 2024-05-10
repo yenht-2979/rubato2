@@ -1,11 +1,5 @@
 techstack:
   application:
-    - yentest:9.52.15
-    - yentest:8.0.2
-    - typescriptyen
-    - nuxtyen:3.5.1
-    - nginxyen:1.21.6
-    - sassyen:1.55.0
-    - redisyen:7.0.4
-    - beanstalkdyen
-    - npmyen2
+    - han_1:9.52.15
+    - han_2:8.0.2
+    
