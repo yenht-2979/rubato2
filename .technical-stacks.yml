@@ -2,4 +2,5 @@ techstack:
   application:
     - QA_yen1:4.56
     - QA_yen2:9.8
+    - QA_yen3:3.45
     
