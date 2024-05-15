@@ -2,6 +2,7 @@
 echo "My first PHP script!";
 echo "My first PHP script!";
 echo "My first PHP script!";
+echo "My first PHP script!4";
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
