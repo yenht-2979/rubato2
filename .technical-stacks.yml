@@ -1,7 +1,5 @@
 techstack:
   application:
-    - han_1:9.52.15
-    - han_2:8.0.2
-    - han_3:12.3
-    - han_4:10.1
+    - QA_yen1
+    - QA_yen2
     
