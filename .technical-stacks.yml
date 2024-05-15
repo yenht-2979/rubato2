@@ -1,5 +1,5 @@
 techstack:
   application:
-    - QA_yen1
-    - QA_yen2
+    - QA_yen1:4.56
+    - QA_yen2:9.8
     
