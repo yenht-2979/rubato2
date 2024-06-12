@@ -6,5 +6,8 @@
 echo "My first PHP script!";
 ?>
 
+<?php
+echo "PHP second";
+?>
 </body>
 </html>
