@@ -1,0 +1,5 @@
+techstack:
+  application:
+    - han01:9.52.15
+    - han01:8.0.2
+   
