@@ -1,0 +1,8 @@
+techstack:
+  cloud:
+    aws:
+      - aws-ec2-container-service
+      - aws-elastic-beanstalk
+      - aws-elastic-compute-cloud
+      - aws-elastic-kubernetes-service
+      
